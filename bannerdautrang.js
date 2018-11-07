@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://q7southsideland.blogspot.com' target='_blank'><img src='https://3.bp.blogspot.com/-WLip3GneEtg/W-LzwXQcKdI/AAAAAAAAAEQ/xsiUMq_N4rggbS4-NC467SRWFU2XHXjiwCLcBGAs/s1600/Banner3.jpg' width='500px'/><br/>13 Căn hộ view sông Q7</a>. Liên hệ 0937844846. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://q7southsideland.blogspot.com' target='_blank'><img src='https://3.bp.blogspot.com/-WLip3GneEtg/W-LzwXQcKdI/AAAAAAAAAEQ/xsiUMq_N4rggbS4-NC467SRWFU2XHXjiwCLcBGAs/s1600/Banner3.jpg' width='500px'/><br/> Bán căn hộ Q7 Riverside</a>. Liên hệ 0937844846 để được tư vấn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
